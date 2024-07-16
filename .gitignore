@@ -1,2 +1,3 @@
-### VS Code ###
-.vscode/
+# Default ignored files
+/shelf/
+/workspace.xml
